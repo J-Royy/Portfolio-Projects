@@ -1,3 +1,3 @@
 # Portfolio-Projects
-<b>Big projects 🖥️<b>
+<b>Main projects 🖥️<b>
  ### [Active Directory HomeLab](https://github.com/J-Royy/ActiveDirectoryLab)
