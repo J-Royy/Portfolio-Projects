@@ -1,0 +1,13 @@
+color1 = input('Enter color: ')
+color2 = input('Enter a second color: ')
+bedadj = input('Enter an adjective: ')
+pronoun = input('Enter a singular pronoun: ')
+car = input('Enter a car: ')
+rapper = input('Enter a rapper: ')
+
+print('Roses are red, violets are ' + color1 + '.')
+print('My wallpaper color is ' + color2 + '.')
+print('The bed you sleep in is ' + bedadj + '.')
+print(pronoun + ' is sleeping in the pool.')
+print('My first car was a ' + car + '.')
+print(rapper + ' is my favorite rapper.')
